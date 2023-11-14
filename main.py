@@ -2,9 +2,15 @@
 
     original_str = 'Python Programming'
     ##################################################
+    org_str = 'Python Programming'
+
     sub1 = org_str[:6]
     sub2 = org_str[7:]
     merge_str = sub2 + ' ' + sub1
+    
+    print(sub1)
+    print(sub2)
+    print (merge_str)
     ##################################################
 
     print(sub2)
